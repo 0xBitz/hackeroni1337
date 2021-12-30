@@ -2,7 +2,7 @@
 - 👀 I’m interested in vlang related projects
 - 🌱 I’m currently learning c
 - 💞️ I’m looking to collaborate on v releated projects
-- 📫 How to reach me ( discord :- CRYPT#3001
+- 📫 How to reach me ( Discord :- ~Crypt#3301 )
 
 <!---
 CrypticDev/CrypticDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
