@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @CrypticDev
-- 👀 I’m interested in vlang related projects
-- 🌱 I’m currently learning c
-- 💞️ I’m looking to collaborate on v releated projects
-- 📫 How to reach me ( Discord :- Crypt#1337 )
-- I love cats
+Kitty <3
+
 
 ![R](https://user-images.githubusercontent.com/96519971/148648262-8ca960e2-1cf6-423e-8849-76d6f0c0a8ed.gif)
 
