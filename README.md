@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I Code in V & Bit Of GO. <br>
+I Code in V, C++ & Bit Of GO. <br>
 
 </div>
 
